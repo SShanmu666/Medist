@@ -1,0 +1,7 @@
+{
+  "name": "Medist - Universal Health Identity",
+  "description": "A world-class healthcare dashboard that provides a unified global medical record for individuals using a single Medist ID. It features AI-powered health insights, medical report analysis, and real-time vital tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
